@@ -3,7 +3,7 @@
 char escolha;
 int numero;
 
-//by sevak
+//all rights reserved to sevak®
 //funcao apenas de leitura, com uma repeticao para escolhas invalidas.
 
 void leitura(){
